@@ -13,7 +13,7 @@
         <source>Manage outgoing HTTP webhooks to external system</source>
       </trans-unit>
       <trans-unit id="description">
-        <source>Enables TYPO3 to communicate with external systems. Automatically notifies third-party services when defined system events occur, supporting integrations with platforms such as Slack, Discord, payment providers, CRM systems, and more.</source>
+        <source>Configure TYPO3 webhooks to notify external systems when defined system events occur. Supports integrations with platforms such as Slack, Discord, payment providers, CRM systems, and more.</source>
       </trans-unit>
       <trans-unit id="heading_text">
         <source>Webhooks — Manage Outgoing HTTP Webhooks</source>
